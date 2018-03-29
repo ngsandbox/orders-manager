@@ -1,0 +1,10 @@
+**/.gradle
+**/.idea
+**/*.iml
+**/build/**
+**/out/**
+**/disct/**
+*.log
+**/rebel.xml
+**/node_modules/**
+/logs/**
